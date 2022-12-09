@@ -24,25 +24,25 @@ local args = {
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
 local args = {
-    [1] = "You worthless dog ash monkey.",
+    [1] = "You worthless ass nigga ng.",
     [2] = "All"
 }
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
 local args = {
-    [1] = "You're gonna stay on my stick until you die.",
+    [1] = "You're gonna stay on my brick until you die.",
     [2] = "All"
 }
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
 local args = {
-    [1] = "You have no purpose in life, your purpose is to be in my stream blowing on it daily.",
+    [1] = "You have no purpose in life, your purpose is to be in my stream sucking on my brick daily.",
     [2] = "All"
 }
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
 local args = {
-    [1] = "Your purpose in life is to be in that chat blowing on one daily.",
+    [1] = "Your purpose in life is to be in that chat blowing a brick daily.",
     [2] = "All"
 }
 
@@ -58,7 +58,7 @@ local args = {
 }
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
 local args = {
-    [1] = "You should RESET CHARACTER NOW!",
+    [1] = "You should kvys NOW!",
     [2] = "All"
 }
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
